@@ -3,6 +3,11 @@ export default {
   darkMode: ["class"],
   content: ["./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    colors: {
+      "primary-500": "#5F6C37",
+      "secondary-500": "#F9E34D",
+      white: "white"
+    },
     extend: {
       spacing: {
         200: "30rem"
