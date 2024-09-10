@@ -1,0 +1,130 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Cappucino",
+            "desc": "The upper chamber holds 40g of beans while the lower chamber holds between 30-50, depending on the grind size",
+            "photo": "https://images.unsplash.com/photo-1620052087057-bfd8235f5874?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "20"
+        },
+        {
+            "id": 2,
+            "name": "Dark Roast",
+            "desc": "A rich and bold coffee with a deep, intense flavor profile",
+            "photo": "https://images.unsplash.com/photo-1541750072-95ea63c38b71?q=80&w=1660&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "2.50"
+        },
+        {
+            "id": 3,
+            "name": "Flat White",
+            "desc": "A velvety smooth coffee with a perfect balance of espresso and steamed milk",
+            "photo": "https://plus.unsplash.com/premium_photo-1664970900098-2676029e6a99?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "3.75"
+        },
+        {
+            "id": 4,
+            "name": "Americano",
+            "desc": "A dilute espresso with a similar strength to drip coffee, perfect for those who enjoy a milder taste",
+            "photo": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "2.00"
+        },
+        {
+            "id": 5,
+            "name": "Caramel Macchiato",
+            "desc": "A delightful combination of espresso, steamed milk, and vanilla syrup, topped with caramel drizzle",
+            "photo": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "4.20"
+        },
+        {
+            "id": 6,
+            "name": "Matcha",
+            "desc": "A finely ground powder of specially grown and processed green tea leaves, known for its vibrant color and earthy flavor",
+            "photo": "https://images.unsplash.com/photo-1628088784459-0eebea2d3ecf?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "5.50"
+        },
+        {
+            "id": 7,
+            "name": "Mandazi",
+            "desc": "A popular East African deep-fried doughnut, often enjoyed with tea or coffee",
+            "photo": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/69e427ab880d491d8aba5877bb82d975/OO_Mandazi.jpg?resize=1200:*",
+            "price": "1.80"
+        },
+        {
+            "id": 8,
+            "name": "Arroz con Leche",
+            "desc": "A creamy and comforting rice pudding, sweetened with cinnamon and condensed milk",
+            "photo": "https://images.unsplash.com/photo-1590055619273-44b5b6ce52e8?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "3.25"
+        },
+        {
+            "id": 9,
+            "name": "Arepa",
+            "desc": "A traditional South American cornmeal patty, versatile and often filled with various ingredients",
+            "photo": "https://images.unsplash.com/photo-1619683909216-820c3bc64b67?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "2.90"
+        },
+        {
+            "id": 10,
+            "name": "Bahn xeo",
+            "desc": "A Vietnamese sizzling pancake filled with a variety of ingredients such as shrimp, pork, and bean sprouts",
+            "photo": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "4.75"
+        },
+        {
+            "id": 11,
+            "name": "Enchiladas",
+            "desc": "Rolled tortillas filled with meat, beans, cheese, and covered with a chili sauce",
+            "photo": "https://images.unsplash.com/photo-1570461226513-e08b58a52c53?q=80&w=1748&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "3.10"
+        },
+        {
+            "id": 12,
+            "name": "Fatira",
+            "desc": "A flaky and layered pastry, popular in Middle Eastern cuisine",
+            "photo": "https://cdn.tasteatlas.com/images/dishes/f99dcc3dfcc642348a40b19f51f32b74.jpg",
+            "price": "5.00"
+        },
+        {
+            "id": 13,
+            "name": "Beyaiantu",
+            "desc": "A spicy and flavorful Ethiopian stew, often made with chicken or beef",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Beyaynetu.JPG/1920px-Beyaynetu.JPG",
+            "price": "2.60"
+        },
+        {
+            "id": 14,
+            "name": "Empanadas",
+            "desc": "A savory pastry filled with various ingredients, folded and baked or fried to perfection",
+            "photo": "https://plus.unsplash.com/premium_photo-1667664478025-ec265b333ea1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": "4.50"
+        },
+        {
+            "id": 15,
+            "name": "Tiayuda",
+            "desc": "A traditional dish from Cape Verde, consisting of beans, rice, and a flavorful sauce",
+            "photo": "https://www.getflavor.com/wp-content/uploads/2023/03/Get-Ready-for-Tlayuda-Hero.png",
+            "price": "3.00"
+        },
+        {
+            "id": 16,
+            "name": "Sate Padang",
+            "desc": "An Indonesian dish of skewered and grilled meat, often served with a rich and spicy peanut sauce",
+            "photo": "https://img.jakpost.net/c/2017/01/25/2017_01_25_20049_1485308488._large.jpg",
+            "price": "4.90"
+        },
+        {
+            "id": 17,
+            "name": "Kik Alicha",
+            "desc": "A mild and comforting Ethiopian stew made with yellow split peas",
+            "photo": "https://www.myjewishlearning.com/wp-content/uploads/2021/03/tempImageBuOheB-2048x1536.jpg",
+            "price": "2.30"
+        },
+        {
+            "id": 18,
+            "name": "Banh mi",
+            "desc": "A Vietnamese sandwich filled with a variety of proteins, fresh vegetables, and condiments",
+            "photo": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/4/29/DV2920_Duck-Bahn-Mi_s4x3.jpg.rend.hgtvcom.826.620.suffix/1556569115082.jpeg",
+            "price": "3.80"
+        }
+    ]
+}
