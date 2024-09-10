@@ -63,16 +63,6 @@
   }
 }
 
-:root {
-  --primary-500: silver;
-  --secondary-500: orange;
-}
-
-.dark {
-  --primary-500: rgb(120, 120, 120);
-  --seconday-500: red;
-}
-
 @layer base {
   * {
     @apply border-border;
